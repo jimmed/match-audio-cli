@@ -6,15 +6,19 @@
 
 ### Installation
 
-Not published to NPM yet. Install as:
+This library is available from the NPM registry, using a compatible package manager such as NPM or yarn:
 
 ```
-yarn add github:jimmed/match-audio-cli.git
-
-// or
-
-npm install github:jimmed/match-audio-cli.git
+$ yarn [global] add match.audio
 ```
+
+or
+
+```
+$ npm install match.audio [--global]
+```
+
+Perform a global installation in order to use the command-line tool.
 
 ### Command-line
 
